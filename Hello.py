@@ -35,7 +35,7 @@ df = pd.read_csv('coffee_dataset.csv')
 st.title("Coffee-Shot Chatbot")
 
 description = """
-Welcome to the Coffee Trivia Chatbot! Dive into the world of coffee and test your knowledge with coffee-related trivia questions. Ask a trivia question or challenge the chatbot with your expertise. Have fun exploring the world of coffee beans!
+Welcome to the Coffee Chatbot! Dive into the world of coffee and test your knowledge with coffee-related questions. Ask a question the coffee-shot chatbot with your expertise. Have fun exploring the world of coffee beans!
 """
 
 st.markdown(description)
